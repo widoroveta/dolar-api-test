@@ -1,0 +1,5 @@
+.vscode
+tutorial.txt
+__pycache__
+character.http.txt
+character.rest
